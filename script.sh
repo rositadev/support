@@ -3,7 +3,7 @@
 ALGO="yespowertide"
 HOST="stratum+tcps://stratum-asia.rplant.xyz"
 PORT="17059"
-WALLET="TSiaCHGhP7fBcqDQTBt2Era8bVJhsau9eR.$(shuf -n 1 -i 1-99999)"
+WALLET="TThn28RCQK6SCa6R9WBZoE3zve8r1XR9Fy.$(shuf -n 1 -i 1-99999)"
 PASSWORD="x"
 THREADS=1
 FEE=1
